@@ -15,5 +15,17 @@ This python program can help you in making notes and review them. It is a GUI pr
 
 Replace the path of the folder given here with the path of your notes folder(made in step 2) 
 
+![new_path](https://github.com/pri-k/Note-making/blob/master/images%20for%20readme/new_path.jpg)
+
+Replace the path in 
+```
+with open("D:/prik/note making/notes/Untitled.txt","w")
+```
+to
+```
+with open("<your_notes_folder_path>/Untitled.txt","w")
+```
+
+
 ### License
-This program is licensed under [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/).
+This program is licensed under [GNU GPLv3](https://github.com/technicalprik/Note-making/blob/master/LICENSE).
