@@ -7,6 +7,8 @@ This python program can help you in making notes and review them. It is a GUI pr
 [![startup](https://github.com/pri-k/Note-making/blob/master/images%20for%20readme/starting.jpg)](https://instagram.com/technicalprik)
 
 ## Setup
+<details>
+  <summary> For those who have some knowledge about python </summary>
 1) Dowload the note_making.py and note_bg.ppm
 2) Create a folder named notes inside the folder where the above 2 files have been stored.
 3) Update the following given paths as told-
@@ -42,8 +44,6 @@ and
 Replace the path ```D:/prik/note making/notes/%s```
 
 to ```<your_notes_folder_path>/%s```
-
-
-
+</details>
 ### License
 This program is licensed under [GNU GPLv3](https://github.com/technicalprik/Note-making/blob/master/LICENSE).
