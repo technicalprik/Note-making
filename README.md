@@ -8,7 +8,7 @@ This python program can help you in making notes and review them. It is a GUI pr
 
 ## Setup
 <details>
-  <summary> **If you want a quick and easy setup** </summary>
+  <summary> If you want a quick and easy setup </summary>
   
 1) Dowload the note_making.py and note_bg.ppm
 2) Go to your D drive
@@ -21,7 +21,7 @@ Now run the program, you are ready to use it!! :smile:
 </details>
 
 <details>
-  <summary> **For those who have some knowledge about python** </summary>
+  <summary> For those who have some knowledge about python </summary>
   
 1) Dowload the note_making.py and note_bg.ppm
 2) Create a folder named notes inside the folder where the above 2 files have been stored.
