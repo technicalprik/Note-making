@@ -45,5 +45,6 @@ Replace the path ```D:/prik/note making/notes/%s```
 
 to ```<your_notes_folder_path>/%s```
 </details>
+
 ### License
 This program is licensed under [GNU GPLv3](https://github.com/technicalprik/Note-making/blob/master/LICENSE).
