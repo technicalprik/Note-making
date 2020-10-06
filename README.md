@@ -3,6 +3,8 @@ This python program can help you in making notes and review them. It is a GUI pr
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)  
 
+(Note: This is under development, I will be adding a scrollbar soon.)
+
 ## Preview
 [![startup](https://github.com/pri-k/Note-making/blob/master/images%20for%20readme/starting.jpg)](https://instagram.com/technicalprik)
 
