@@ -65,5 +65,7 @@ Now run the program, you are ready to use it!! :smile:
 
 </details>
 
+If you still face any difficulty then you can message me on [instagram](instagram.com/technicalprik).
+
 ## License
 This program is licensed under [GNU GPLv3](https://github.com/technicalprik/Note-making/blob/master/LICENSE).
